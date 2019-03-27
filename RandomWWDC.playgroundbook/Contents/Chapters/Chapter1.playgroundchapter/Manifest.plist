@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>RandomWWDC</string>
+	<key>Pages</key>
+	<array>
+		<string>Hello.playgroundpage</string>
+		<string>Page1.playgroundpage</string>
+		<string>Rain.playgroundpage</string>
+		<string>Rain2.playgroundpage</string>
+		<string>Addition.playgroundpage</string>
+		<string>Circle.playgroundpage</string>
+		<string>PageFinal.playgroundpage</string>
+		<string>bye.playgroundpage</string>
+	</array>
+</dict>
+</plist>
